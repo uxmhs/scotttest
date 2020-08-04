@@ -1,0 +1,25 @@
+Sample JSON
+
+
+[
+
+    {
+        "firstname": "Scott",
+        "lastname": "Millar",
+	"ID": "173767",
+	"date": "May 2, 2020"
+    }, {
+        "firstname": "Angelika",
+        "lastname": "Kot",
+	"ID": "034203",
+	"date": "May 15, 2020"
+    }, {
+        "firstname": "Yin",
+        "lastname": "Liu",
+	"ID": "998987",
+	"date": "May 22, 2020"
+    }
+]
+
+
+
